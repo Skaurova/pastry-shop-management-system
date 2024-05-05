@@ -3,7 +3,9 @@
 An application which allows to manage the system of a pastry shop.
 
 It is required to log in to the application first.
+
 LOGIN: Admin
+
 PASSWORD: Password
 
 Items tab allows to see the items registered in the application, edit items’ details, add new items and delete existing ones.
